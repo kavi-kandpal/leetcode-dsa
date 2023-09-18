@@ -1,16 +1,16 @@
 class Solution {
-   public  int maximumWealth(int[][] accounts) {
-        int count = 0;
+    public int maximumWealth(int[][] accounts) {
+        int sum = 0;
+        int newsum = 0;
         for (int i = 0; i < accounts.length; i++) {
-            int counter = 0;
-            for (int j = 0; j < accounts[i].length; j++) {
-                counter += accounts[i][j];
-
+            newsum = 0;
+            for(int p = 0; p < accounts[i].length; p++){
+                newsum = newsum + accounts[i][p];
             }
-            if (counter >= count) {
-                count = counter;
+            if (newsum > sum) {
+                sum = newsum;
             }
         }
-        return count;
+        return sum;
     }
 }
