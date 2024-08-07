@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -19,9 +20,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
