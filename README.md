@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2058-concatenation-of-array) |
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
