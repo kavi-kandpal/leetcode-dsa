@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/2048-build-array-from-permutation) |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kavi-kandpal/leetcode-dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
